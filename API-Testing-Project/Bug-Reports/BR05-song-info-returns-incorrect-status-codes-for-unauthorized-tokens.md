@@ -55,5 +55,5 @@ The API does not enforce consistent or correct authentication behavior.
 
 ## Evidence
 - Screenshot: [TC05.1 - expired token](/API-Testing-Project/Evidence/Screenshots/TC05.1.png)
-- Screenshot: [TC05.2- long token](/API-Testing-Project/Evidence/Screenshots/TC05.2.png)
+- Screenshot: [TC05.2 - long token](/API-Testing-Project/Evidence/Screenshots/TC05.2.png)
 - Screenshot: [TC05.3 - invalid token](/API-Testing-Project/Evidence/Screenshots/TC05.3.png)
