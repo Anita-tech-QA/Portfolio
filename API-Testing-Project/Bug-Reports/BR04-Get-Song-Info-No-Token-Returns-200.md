@@ -32,4 +32,4 @@ A 401 Unauthorized response is expected for unauthenticated requests.
 - This behavior violates expected authentication requirements.  
 
 ## Evidence
-- Screenshot: [TC05](/API-Testing-Project/Evidence/Screenshots/TC05.png)  
+- Screenshot: [TC04](/API-Testing-Project/Evidence/Screenshots/TC04.png)  
