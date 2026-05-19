@@ -33,4 +33,4 @@ Verifies that a valid user with a valid Bearer token can successfully play a son
 ✅ **Passed**
 
 ## Evidence
-Screenshot: [TC09](/API-Testing-Project/Evidence/Screenshots/TC09.png)
+Screenshot: [TC06](/API-Testing-Project/Evidence/Screenshots/TC06.png)
