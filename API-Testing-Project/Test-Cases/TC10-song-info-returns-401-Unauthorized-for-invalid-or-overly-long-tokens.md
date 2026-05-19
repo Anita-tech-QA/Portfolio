@@ -57,6 +57,7 @@ The API did not enforce consistent authentication behavior for unauthorized requ
 
 ## Evidence
 Screenshots:  
-- TC05-1 (Expired token)  
+- Screenshot: [TC06](/API-Testing-Project/Evidence/Screenshots/TC06.png)  
+- Related Bug Report: [BR06-Expired-Token-Returns-200](../Bug-Reports/BR06-Expired-Token-Returns-200.md) 
 - TC05-2 (Invalid token)  
 - TC05-3 (Overly long token)
