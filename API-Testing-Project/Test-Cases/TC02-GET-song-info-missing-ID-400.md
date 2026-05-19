@@ -33,4 +33,4 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 ✅ **Passed**
 
 ## Evidence
-- Screenshot: [TC03](/API-Testing-Project/Evidence/Screenshots/TC03.png)
+- Screenshot: [TC02](/API-Testing-Project/Evidence/Screenshots/TC02.png)
