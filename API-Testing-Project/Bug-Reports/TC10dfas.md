@@ -2,6 +2,7 @@
 
 ## Summary
 The `/api/song/{song_id}/info` endpoint returns incorrect and inconsistent status codes when unauthorized Bearer tokens are used.  
+
 Instead of returning **401 Unauthorized** for all invalid authentication attempts, the API responds with **200 OK** or **404 Not Found**, depending on the token variation.
 
 This behavior violates expected authentication rules and may expose unintended information about the system.
@@ -28,7 +29,7 @@ This behavior violates expected authentication rules and may expose unintended i
 1. Send a GET request to `/api/song/{song_id}/info` using a valid song ID.  
 2. Repeat the request using each unauthorized token variation:
    - Expired token  
-   - Invalid token (random string)  
+   - Invalid token 
    - Overly long token  
 3. Observe the response status and body for each request.
 
