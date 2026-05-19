@@ -1,49 +1,35 @@
-## QA Portfolio – Anita Surewicz
-
 # QA Portfolio – Anita Surewicz
 
-My portfolio currently includes a Manual Testing project (UI + functional testing in Jira/Zephyr), an API Testing project (Postman, DBeaver, authentication testing, negative testing), and an UI Automation project covering the Login feature of a web application using Selenium, TestNG, and Java. I will continue expanding the automation suite with additional scenarios and features. These manual, API, and automation foundations ensure my work is structured, maintainable, and aligned with real QA workflows. All testing work has been completed during the TestPro Internship and through independent study.
+This portfolio showcases three core QA projects:  
+• Manual UI & functional testing (Jira/Zephyr)  
+• API testing (Postman, authentication, negative testing, DBeaver validation)  
+• UI automation for the Login feature (Selenium, TestNG, Java)  
 
-### Scope Note
-These projects focus on the core functional and authentication scenarios required for the user stories. While additional edge cases and advanced security tests could be explored, the current coverage is intentionally scoped for portfolio demonstration purposes. The goal is to show clear, structured QA testing, defect reporting, and evidence‑based validation.
+These projects demonstrate structured QA workflows, evidence‑based defect reporting, and maintainable test design. All work was completed during the TestPro Internship and through independent study.
+
+## Scope Note
+The projects focus on core functional and authentication scenarios aligned with user stories. While additional edge cases and advanced security tests could be explored, the current scope is intentionally designed for clear, portfolio‑ready demonstration of QA fundamentals.
 
 ## Projects
 
 ### 1. Manual Testing Project
-This project demonstrates UI and functional testing using Jira/Zephyr within a structured QA workflow. It includes detailed test cases, exploratory testing sessions, and defect reporting with clear reproduction steps and evidence. The focus is on validating core user flows, identifying usability issues, and ensuring the application behaves as expected across different scenarios. Screenshots, bug reports, and test execution logs are included to show real‑world QA documentation.  
+UI and functional testing using Jira/Zephyr within a structured QA workflow. Includes detailed test cases, exploratory testing notes, and defect reports with clear reproduction steps and evidence. Focus areas include validating core user flows, identifying usability issues, and documenting real‑world QA artifacts.
 
 ### 2. API Testing Project
-This project covers REST API testing using Postman, focusing on authentication, negative testing, and validation of the GET `/api/song/{song_id}/info` endpoint. It includes structured test cases, bug reports, and evidence screenshots, along with analysis of incorrect tokens, invalid IDs, and method handling. The project demonstrates how to verify API behavior, document defects, and validate backend logic in a realistic QA environment.  
+REST API testing using Postman, covering authentication, negative testing, and validation of the `GET /api/song/{song_id}/info` endpoint. Includes structured test cases, bug reports, and screenshots. Demonstrates backend validation, error‑handling analysis, and defect documentation in a realistic QA environment.
 
 ### 3. UI Automation Project – Login Feature (Selenium + TestNG + Java)
-This project automates the Login functionality of a web application using Selenium WebDriver, TestNG, and Java.  
-It includes:
-
-- A structured Page Object Model (POM)  
-- Automated test cases mirroring the manual suite  
-- Execution results and pass/fail analysis  
-- Linked bug reports for failed scenarios  
-- Manual test cases, automation scripts, and defect documentation for full traceability  
-
-This project demonstrates how manual testing and automation engineering come together to create a maintainable, scalable QA workflow.
+Automation of the Login feature using Selenium WebDriver, TestNG, and Java. Includes a Page Object Model (POM), automated test cases mirroring the manual suite, execution results, and linked bug reports. Demonstrates how manual and automated testing integrate into a maintainable QA workflow.
 
 ## Skills Demonstrated
+• Manual testing  
+• API testing (Postman, DBeaver)  
+• UI automation (Selenium, TestNG, Java)  
+• Test case design  
+• Bug reporting  
+• Exploratory testing  
+• Jira/Zephyr  
+• AI‑Augmented Testing  
 
-- Manual testing  
-- API testing (DBeaver)  
-- UI automation (Selenium, TestNG, Java)  
-- Test case design  
-- Bug reporting  
-- Postman  
-- Jira/Zephyr  
-- DBeaver  
-- Exploratory testing  
-- AI‑Augmented Testing  
-
-### AI-Augmented Testing
-I used AI tools to:
-- Generate initial test case drafts  
-- Suggest edge cases  
-- Analyze API error messages  
-
-All AI-generated content was reviewed and refined 
+## AI‑Augmented Testing
+AI tools were used to generate initial test case drafts, suggest edge cases, and analyze API error messages. All AI‑generated content was reviewed and refined.
