@@ -41,5 +41,5 @@ The UI behavior does not match the database records, which confirm that the inva
 - UI returns **false positives** despite the invalid artist not existing in the database.  
 
 ## Evidence
-- Screenshot: [TC06-1](/Manual-Testing-Project/Evidence/TC06-1.png)
-- Screenshot: [TC06-2](/Manual-Testing-Project/Evidence/TC06-2.png)
+- Screenshot: [TC05-1](/Manual-Testing-Project/Evidence/TC05-1.png)
+- Screenshot: [TC05-2](/Manual-Testing-Project/Evidence/TC05-2.png)
