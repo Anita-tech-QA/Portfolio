@@ -1,4 +1,4 @@
-# TC07: Koel | Artists | Search is case insensitive
+# TC06: Koel | Artists | Search is case insensitive
 
 ## Purpose
 Verify that the Artists search functionality returns the same results regardless of letter casing, ensuring a user‑friendly and consistent search experience.
@@ -38,6 +38,6 @@ Verify that the Artists search functionality returns the same results regardless
 ✅ **Passed**  
 
 ## Evidence
-- Screenshot: [TC07-1](/Manual-Testing-Project/Evidence/TC07-1.png)
-- Screenshot: [TC07-2](/Manual-Testing-Project/Evidence/TC07-2.png)
-- Screenshot: [TC07-3](/Manual-Testing-Project/Evidence/TC07-3.png)
+- Screenshot: [TC06-1](/Manual-Testing-Project/Evidence/TC06-1.png)
+- Screenshot: [TC06-2](/Manual-Testing-Project/Evidence/TC06-2.png)
+- Screenshot: [TC06-3](/Manual-Testing-Project/Evidence/TC06-3.png)
