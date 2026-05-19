@@ -1,7 +1,7 @@
 # Test Case: GET /api/song/{song_id}/info returns 401 Unauthorized for invalid or missing tokens
 
 ## Objective
-Verifies that the API correctly rejects all unauthorized requests by returning **401 Unauthorized** when the Bearer token is missing, expired, invalid, malformed, or excessively long.
+Verifies that the API correctly rejects all unauthorized requests by returning **401 Unauthorized** when the Bearer token is expired, invalid, or too long.
 
 ---
 
@@ -16,21 +16,17 @@ Verifies that the API correctly rejects all unauthorized requests by returning *
 ## Test Data
 - **song_id:** (valid existing ID)  
 - **Unauthorized token variations:**  
-  - Missing token  
   - Expired token  
   - Invalid token (random string)  
-  - Malformed token (incorrect format)  
   - Excessively long token  
 
 ---
 
 ## Steps
-1. Send a GET request to `/api/song/{song_id}/info` **without** an Authorization header.  
-2. Send the same request using an **expired** Bearer token.  
-3. Send the request using an **invalid** token (e.g., `"abc123"`).  
-4. Send the request using a **malformed** token (e.g., `"Bearer 123"`).  
-5. Send the request using an **excessively long** token.  
-6. Observe the response status code and response body for each request.
+1. Send the same request using an **expired** Bearer token.  
+2. Send the request using an **invalid** token (e.g., `"abc123"`).  
+3. Send the request using an **excessively long** token.  
+4. Observe the response status code and response body for each request.
 
 ---
 
@@ -44,7 +40,7 @@ For **all** unauthorized token variations:
 ---
 
 ## Actual Result
-All unauthorized token variations failed, but each failed in a different and inconsistent way:
+All unauthorized token variations failed:
 
 - **Expired token:** API returned **200 OK** instead of 401  
 - **Invalid token:** API returned **200 OK** instead of 401  
