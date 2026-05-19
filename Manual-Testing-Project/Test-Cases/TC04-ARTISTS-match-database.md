@@ -8,8 +8,8 @@
 
 ## Test Data
 - SQL Query: SELECT * FROM artists ORDER BY name ASC;  
-- Expected DB artist list: Enter Value...  
-- Expected UI artist list: Enter Value...
+- List of artists returned by the SQL query (see Evidence).
+- List of artists displayed on the Koel Artists page (see Evidence).
 
 ## Steps
 1. Log into DBeaver  
