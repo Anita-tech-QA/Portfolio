@@ -33,4 +33,4 @@ This behavior is incorrect and has been logged as a defect.
 
 ## Evidence
 - Screenshot: [TC04](/API-Testing-Project/Evidence/Screenshots/TC04.png) 
-- Related Bug Report: [BR04 – GET song info without token returns 200](../Bug%20Reports/BR04-Get-Song-Info-No-Token-Returns-200.md)
+- Related Bug Report: [BR04 – GET song info without token returns 200](../Bug-Reports/BR04-Get-Song-Info-No-Token-Returns-200.md)
