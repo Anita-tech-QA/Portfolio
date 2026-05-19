@@ -56,3 +56,11 @@ The API did not enforce consistent authentication behavior for unauthorized requ
 
 ## Status
 ❌ Failed
+
+---
+
+## Evidence
+Screenshots:  
+- TC05-1 (Expired token)  
+- TC05-2 (Invalid token)  
+- TC05-3 (Overly long token)
