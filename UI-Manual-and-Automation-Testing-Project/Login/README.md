@@ -1,142 +1,24 @@
-# Koel App — Login Feature (Manual & Automation Testing)
+Koel App — Login Feature (Manual & Automation Testing)
 
-This repository contains manual UI test cases, Selenium automation tests, and bug reports for validating the Login functionality of the Koel music streaming application.
+This project validates the Login functionality of the Koel music streaming application using both manual UI testing and Selenium automation. Testing was performed against the Koel QA environment.
 
-All testing was performed against the Koel QA environment:  
-https://qa.koel.app
+The goal was to ensure secure authentication, proper validation of incorrect inputs, and consistent redirect behavior. Manual test cases and automation scripts follow the same structure for full traceability.
 
----
+What this project demonstrates:
+- Manual UI and functional test design
+- Selenium WebDriver automation with Java, TestNG, and Page Object Model
+- Evidence-based bug reporting
+- Jira/Zephyr-aligned test structure
+- Full traceability between manual tests, automation, and defects
 
-## 📌 Project Overview
+Coverage includes:
+- Valid login
+- Invalid email formats
+- Incorrect password
+- Required-field validation
+- Redirecting to previously saved pages
 
-The goal of this project was to verify that users can authenticate correctly and that invalid inputs are handled consistently.
-
-**User Story:**  
-“As a user, I want to log into the app securely, so that I can access my music.”
-
-**Acceptance criteria included:**
-
-- Successful login with valid credentials  
-- Validation of incorrect email formats  
-- Validation of incorrect passwords  
-- Required‑field behavior  
-- Redirecting users back to previously saved pages  
-- Preparing all manual tests for future automation  
-
----
-
-## 📁 Repository Structure
-
-```
-UI-Manual-and-Automation-Testing-Project/  
-└── Login/  
-    ├── Manual-Tests/  
-    │   ├── TC01/  
-    │   ├── TC02/  
-    │   ├── TC03/  
-    │   ├── TC04/  
-    │   ├── TC05/  
-    │   ├── TC06/  
-    │   └── TC07/  
-    │  
-    ├── Automation/  
-    │   ├── TC01/  
-    │   ├── TC02/  
-    │   ├── TC03/  
-    │   ├── TC04/  
-    │   ├── TC05/  
-    │   ├── TC06/  
-    │   └── TC07/  
-    │  
-    └── Bug-Reports/  
-        ├── BR02/  
-        ├── BR03/  
-        ├── BR04/  
-        ├── BR05/  
-        └── BR06/
-```
-
----
-
-## 🧪 Manual Test Cases
-
-Located in **Manual-Tests**.
-
-Each test case includes:
-
-- Objective  
-- Preconditions  
-- Test Steps 
-- Expected Result  
-- Actual Result  
-- Traceability
-- Evidence
-
-**Covers:**
-
-- Valid login  
-- Invalid email formats  
-- Empty fields  
-- Incorrect password  
-- Login redirect behavior  
-
----
-
-## 🤖 Automation Tests
-
-Located in **Automation**.
-
-Each automation test includes:
-
-- Scenario  
-- Automation Logic  
-- Automation Result  
-- Reason  
-- Traceability 
-  - Manual Test  
-  - Bug Report (if failed)
-
-**Built using:**
-
-- Selenium WebDriver  
-- Java  
-- TestNG  
-- Page Object Model (POM)
-
-Automation mirrors the manual suite for full traceability.
-
----
-
-## 🐞 Bug Reports
-
-Located in **Bug-Reports**.
-
-Each bug report includes:
-
-- Summary  
-- Environment   
-- Steps to Reproduce  
-- Expected
-- Actual Result  
-- Impact
-- Evidence
-
-**Documented defects include:**
-
-- Missing validation messages for invalid email formats  
-- Missing validation for empty fields  
-- Missing incorrect‑password error message  
-
----
-
-## 🎯 Purpose of This Project
-
-This project demonstrates:
-
-- Manual UI and functional testing  
-- Test case design aligned with Jira/Zephyr  
-- Selenium automation with Java + TestNG  
-- Page Object Model (POM) structure  
-- Evidence‑based defect reporting  
-- Full traceability between manual tests, automation tests, and bug reports  
-- Clean, organised QA documentation suitable for a professional portfolio
+Repository structure:
+- Manual Tests — structured test cases with evidence
+- Automation Tests — Selenium + TestNG scripts mirroring manual tests
+- Bug Reports — documented defects with steps, expected/actual results, and screenshots
