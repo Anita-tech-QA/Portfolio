@@ -1,4 +1,4 @@
-# Test Case: GET /api/song/{song_id}/info returns 401 Unauthorized for invalid or missing tokens
+# Test Case: GET /api/song/{song_id}/info returns 401 Unauthorized for invalid or overly long tokens
 
 ## Objective
 Verifies that the API correctly rejects all unauthorized requests by returning **401 Unauthorized** when the Bearer token is expired, invalid, or too long.
