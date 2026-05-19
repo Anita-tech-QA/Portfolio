@@ -57,7 +57,7 @@ The API did not enforce consistent authentication behavior for unauthorized requ
 
 ## Evidence
 Screenshots:  
-- Screenshot: [TC06 - expired token](/API-Testing-Project/Evidence/Screenshots/TC06.png)
+- Screenshot: [TC05.1 - expired token](/API-Testing-Project/Evidence/Screenshots/TC05.1.png)
 - Screenshot: [TC07- long token](/API-Testing-Project/Evidence/Screenshots/TC07.png)
 - Screenshot: [TC08 - invalid token](/API-Testing-Project/Evidence/Screenshots/TC08.png)
 - Related Bug Report: [BR05 – Incorrect Status Codes for Unauthorized Tokens](../Bug-Reports/BR05-song-info-returns-incorrect-status-codes-for-unauthorized-tokens.md)
