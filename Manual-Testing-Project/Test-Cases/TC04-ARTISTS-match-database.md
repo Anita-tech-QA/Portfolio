@@ -1,4 +1,4 @@
-# TC04 - Koel | Artists | Artists match DB records
+# TC04 - Koel | Artists | UI Artist List Matches Database Records
 
 ## Preconditions
 - User is registered and logged into Koel: https://qa.koel.app/#!/home  
