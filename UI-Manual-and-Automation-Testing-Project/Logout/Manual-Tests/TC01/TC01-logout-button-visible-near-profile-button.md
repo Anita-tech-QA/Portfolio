@@ -22,8 +22,8 @@
 🟢 **PASS**
 
 ## Traceability
-- Automation test: [AT01 Automation](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT01-logout-btn-next-to-profile-btn.md)
+- Automation test: [AT01 Automation](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT01/AT01-logout-btn-next-to-profile-btn.md)
   
 ## Evidence
-- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_IntelliJ-Passed.png)
+- Screenshot: [TC01 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT01/TC01-logout.btn-next-to-profile-btn_IJ.png)
 - Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_IntelliJ-Passed.png)
