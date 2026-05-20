@@ -22,9 +22,8 @@
 🟢 **PASS**
 
 ## Traceability
-- Automation test:
-- 
+- Automation test: [TC04 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC04_InvalidEmailNoDotSymbolTest.md)
+  
 ## Evidence
-- UI – Home Page (Navigation Bar)
-- UI – Highlighted Logout Button
-- Browser Console – No UI errors 
+- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_IntelliJ-Passed.png)
+- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_IntelliJ-Passed.png)
