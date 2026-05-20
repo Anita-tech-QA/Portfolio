@@ -1,4 +1,4 @@
-# TC07 – Login Redirects User to Previously Saved Page – Automation
+# AT07 – Login Redirects User to Previously Saved Page – Automation
 
 ## Traceability
 - Manual Test: [TC07 – Login Redirects to Previously Saved Page](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC07/TC07-login-redirects-to-previously-saved-page.md)
