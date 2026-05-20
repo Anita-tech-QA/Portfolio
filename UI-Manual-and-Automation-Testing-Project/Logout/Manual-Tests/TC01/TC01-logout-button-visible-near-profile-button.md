@@ -25,5 +25,5 @@
 - Automation test: [AT01 Automation](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT01/AT01-logout-btn-next-to-profile-btn.md)
   
 ## Evidence
-- Screenshot: [TC01 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT01/TC01-logout.btn-next-to-profile-btn_IJ.png)
+- Screenshot: [TC01 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT01/TC01-logout-btn-next-to-profile-btn_IJ.png)
 - Screenshot: [TC04 – Logout Button is Next to Profile Button](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC01/TC01-logout-btn-next-to-profile-btn_UI.png)
