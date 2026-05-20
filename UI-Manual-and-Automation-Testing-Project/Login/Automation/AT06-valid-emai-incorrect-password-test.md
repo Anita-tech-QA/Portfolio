@@ -1,4 +1,4 @@
-# TC06 – Valid Email and Incorrect Password – Automation
+# AT06 – Valid Email and Incorrect Password – Automation
 
 ## Traceability
 - Manual Test: [TC06 – Valid Email and Incorrect Password](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC06-valid-email-and-incorrect-password.md)
