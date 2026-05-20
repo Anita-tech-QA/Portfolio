@@ -22,10 +22,8 @@
 🟢 **PASS**
 
 ## Traceability
-- Jira Test: *Koel | Log out | “Log student out” button appears near "Profile" button on Home Page*
-- Related Story: Logout Functionality
-- Regression Area: Navigation UI
-
+- Automation test:
+- 
 ## Evidence
 - UI – Home Page (Navigation Bar)
 - UI – Highlighted Logout Button
