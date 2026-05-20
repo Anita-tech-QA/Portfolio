@@ -14,7 +14,7 @@
 - The **“Log student out”** button is displayed.
 - The **“Log student out”** button appears **next to** the **“Profile”** button in the top navigation bar.
 
-## Actual Result (from execution)
+## Actual Result 
 - “Log student out” button was visible.
 - Button appeared correctly next to the “Profile” button.
 
