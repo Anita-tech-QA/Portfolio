@@ -1,4 +1,4 @@
-# TC – “Log student out” button appears near “Profile” button on Home Page
+# TC01 – “Log student out” button appears near “Profile” button on Home Page
 
 ## Preconditions
 - User is registered with a valid **testpro.io** email.
