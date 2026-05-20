@@ -1,7 +1,7 @@
 # TC02 – User is redirected to Login page after logout – Automation
 
 ## Traceability
-- Manual Test: [TC01 – User is Redirected to Login Page After Logout](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC02/TC02-user-is-redirected-to-loginpage-after-logout.md)
+- Manual Test: [TC01 – User is Redirected to Login Page After Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-user-is-redirected-to-loginpage-after-logout.md)
 
 ## Scenario
 Validate that Koel correctly ends the user session and redirects the user to the **Login page** after clicking the **“Log student out”** button on the Home Page.
