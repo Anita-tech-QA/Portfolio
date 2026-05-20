@@ -14,7 +14,7 @@
 - The UI displays the message: “Couldn't log you in.”
 - User remains on the Login page.
 
-## Actual Result (from execution)
+## Actual Result 
 - No “Couldn't log you in” message is displayed.
 - The login form briefly shakes and shows a red outline.
 - No text feedback is provided.
@@ -24,11 +24,11 @@
 ❌ FAIL
 
 ## Traceability
-- Automation Test: [TC06 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC06_ValidEmailIncorrectPasswordTest.md)
+- Automation Test: [TC06 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC06-valid-email-incorrect-password-test.md)
 - Bug Report: [BR06 – Incorrect Password Error Not Shown](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/BR06-incorrect-password-error-not-shown.md)
 
 ## Evidence
 
-- Screenshot: [TC06 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_IntelliJ-invalidPasswordShowsErrorState-Passed.png)
-- Screenshot: [TC06 – IntelliJ Login Attempt (Valid Email + Invalid Password)](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_IntelliJ-loginValidEmailInvalidPassword-Passed.png)
-- Screenshot: [TC06 – UI Error State](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_UI.png)
+- Screenshot: [TC06 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06-incorrect-password-shows-error_IJ.png)
+- Screenshot: [TC06 – IntelliJ Login Attempt (Valid Email + Invalid Password)](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06-valid-email-invalid-password-shows-error_IJ.png)
+- Screenshot: [TC06 – UI Error State](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06-incorrect-password-shows-error_UI.png)
