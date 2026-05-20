@@ -28,5 +28,5 @@ When logging in with an email missing the @ symbol, Koel does not display the ex
 
 ## Evidence
 
-- Screenshot: [TC03 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/TC03_missing-at-symbol_IntelliJ-Passed.png)
-- Screenshot: [TC03 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/TC03_missing-at-symbol_Tooltip.png)
+- Screenshot: [TC03 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/TC03-missing-at-symbol_IJ.png)
+- Screenshot: [TC03 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/TC03-missing-at-symbol-tooltip_UI.png)
