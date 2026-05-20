@@ -31,5 +31,5 @@ Koel displays the message: “Email format is incorrect.”
 
 ## Evidence
 
-- Screenshot: [TC05 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields_IntelliJ-Passed.png)
-- Screenshot: [TC05 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields-Tooltip.png)
+- Screenshot: [TC05 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05-empty-fields_IJ.png)
+- Screenshot: [TC05 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05-empty-fields-tooltip_UI.png)
