@@ -27,9 +27,9 @@
 
 ## Traceability
 - Automation Test:  
-  [TC07 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC07/TC07_LoginRedirectsToSavedPageTest.md)
+  [TC07 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC07/AT07-login-redirects-to-saved-page-test.md)
 
 ## Evidence
-- [UI Before Redirect Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC07/TC07_redirect-login_UI-before.png)
-- [UI After Redirect Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC07/TC07_redirect-login_UI-after.png)
-- [IntelliJ – Passed](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC07/TC07_redirect-login_IntelliJ-Passed.png)
+- [UI Before Redirect Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC07/TC07-before-redirect-login_UI.png)
+- [UI After Redirect Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC07/TC07-after-redirect-login_UI.png)
+- [IntelliJ – Passed](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC07/TC07-login-redirect-to-saved-page-test_IJ.png)
