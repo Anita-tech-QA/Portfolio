@@ -17,7 +17,7 @@
 - User is redirected to the previously saved URL (/albums).
 - User is not taken to the default Homepage.
 
-## Actual Result (from execution)
+## Actual Result 
 - User was successfully logged in.
 - User was redirected to the saved URL (/albums).
 - User was not taken to the Homepage.
