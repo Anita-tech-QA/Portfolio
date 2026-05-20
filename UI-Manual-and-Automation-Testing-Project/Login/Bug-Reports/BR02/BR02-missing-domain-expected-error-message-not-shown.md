@@ -30,5 +30,5 @@ Koel displays the message: “Email format is incorrect.”
 
 ## Evidence
 
-- Screenshot: [TC02 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02_missing-domain_IntelliJ-Passed.png)
-- Screenshot: [TC02 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02_missing-domain_Tooltip.png)
+- Screenshot: [TC02 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02-missing-domain_IJ.png)
+- Screenshot: [TC02 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02-missing-domain-tooltip_UI.png)
