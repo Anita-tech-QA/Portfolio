@@ -28,4 +28,4 @@
 
 ## Evidence
 - Screenshot: [TC02 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02-missing-domain_IJ.png)
-- Screenshot: [TC02 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02-missing-domain-tooltip.png)
+- Screenshot: [TC02 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02-missing-domain-tooltip_UI.png)
