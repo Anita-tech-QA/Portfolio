@@ -27,6 +27,6 @@
   [AT01 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC01/AT01-valid-login-test.md)
 
 ## Evidence
-- [UI Before Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC01/TC01_valid-email-password_UI-before.png)
-- [UI After Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC01/TC01_valid-email-password_UI-after.png)
+- [UI Before Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC01/TC01-valid-email-password-before-login_UI.png)
+- [UI After Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC01/TC01-valid-email-password-after-login_UI.png)
 - [IntelliJ – Passed](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC01/TC01-valid-login-test_IJ.png)
