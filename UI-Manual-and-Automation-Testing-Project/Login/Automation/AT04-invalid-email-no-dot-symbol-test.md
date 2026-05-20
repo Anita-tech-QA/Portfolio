@@ -1,4 +1,4 @@
-# TC04 – Invalid Email (Missing Dot Symbol) – Automation
+# AT04 – Invalid Email (Missing Dot Symbol) – Automation
 
 ## Traceability
 - Manual Test: [TC04 – Invalid Email (Missing Dot Symbol)](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC04-invalid-email-no-dot-symbol.md)
