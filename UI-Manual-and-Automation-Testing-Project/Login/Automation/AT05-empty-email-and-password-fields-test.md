@@ -1,4 +1,4 @@
-# TC05 – Empty Email and Password Fields – Automation
+# AT05 – Empty Email and Password Fields – Automation
 
 ## Traceability
 - Manual Test: [TC05 – Empty Email and Password Fields](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC05-empty-email-and-password-fields.md)
