@@ -2,7 +2,7 @@
 
 ## Traceability
 - Manual Test: [TC01 – Logout Button Appears Next to Profile Button](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC01/TC01-logout-button-visible-near-profile-button.md)
-- 
+  
 ## Scenario
 Validate that Koel displays the **“Log student out”** button in the top navigation bar immediately next to the **“Profile”** button after a successful login.
 
