@@ -22,7 +22,7 @@
 🟢 **PASS**
 
 ## Traceability
-- Automation test: [TC04 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC04_InvalidEmailNoDotSymbolTest.md)
+- Automation test: [AT01 Automation](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT01-logout-btn-next-to-profile-btn.md)
   
 ## Evidence
 - Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_IntelliJ-Passed.png)
