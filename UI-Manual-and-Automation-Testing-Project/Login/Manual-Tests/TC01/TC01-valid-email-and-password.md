@@ -15,7 +15,7 @@
 - User is successfully logged in.
 - User is redirected to the Homepage.
 
-## Actual Result (from execution)
+## Actual Result 
 - User successfully logged in.
 - User was redirected to the Homepage.
 
