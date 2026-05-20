@@ -36,4 +36,4 @@
 - Screenshot: [TC04-2](/Manual-Testing-Project/Evidence/TC04-2.png)
 - Screenshot: [TC04-3](/Manual-Testing-Project/Evidence/TC04-3.png)
 - Screenshot: [TC04-4](/Manual-Testing-Project/Evidence/TC04-4.png)   
-- Related Bug Report: [BR04-ARTISTS-UI-Does-Not-Reflect-DB-Artists.md](../Bug-Reports/BR04-ARTISTS-UI-Does-Not-Reflect-DB-Artists.md)
+- Related Bug Report: [BR04 - UI Does Not Reflect DB Artists](../Bug-Reports/BR04-UI-does-not-reflect-DB-artists.md)
