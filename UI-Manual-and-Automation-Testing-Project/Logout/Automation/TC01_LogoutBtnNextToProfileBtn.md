@@ -1,7 +1,7 @@
 # TC01 – “Log student out” button appears near “Profile” button on Home Page – Automation
 
 ## Traceability
-Manual Test: link$$$$$$$$$$
+- Manual Test: [TC01 – Valid Email and Password](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC01/TC01-valid-email-and-password.md)
 
 ## Scenario
 Validate that Koel displays the **“Log student out”** button in the top navigation bar immediately next to the **“Profile”** button after a successful login.
