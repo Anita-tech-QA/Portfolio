@@ -29,5 +29,5 @@
 
 ## Evidence
 
-- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04-missing-dot-symbol_IJd.png)
+- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04-missing-dot-symbol_IJ.png)
 - Screenshot: [TC04 – UI Red Outline / Shake](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04-missing-dot-symbol_UI.png)
