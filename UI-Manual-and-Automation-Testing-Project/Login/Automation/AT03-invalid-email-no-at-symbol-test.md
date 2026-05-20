@@ -1,4 +1,4 @@
-# TC03 – Invalid Email (Missing @ Symbol) – Automation
+# AT03 – Invalid Email (Missing @ Symbol) – Automation
 
 ## Traceability
 - Manual Test: [TC03 – Invalid Email (Missing @ Symbol)](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC03-invalid-email-no-at-symbol.md)
