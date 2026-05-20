@@ -24,7 +24,7 @@
 ❌ FAIL
 
 ## Traceability
-- Automation Test: [TC06 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC06/AT06-valid-email-incorrect-password-test.md)
+- Automation Test: [TC06 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/AT06-valid-email-incorrect-password-test.md)
 - Bug Report: [BR06 – Incorrect Password Error Not Shown](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/BR06-incorrect-password-error-not-shown.md)
 
 ## Evidence
