@@ -1,4 +1,4 @@
-# TC01 – Valid Email and Password – Automation
+# AT01 – Valid Email and Password – Automation
 
 ## Traceability
 - Manual Test: [TC01 – Valid Email and Password](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC01/TC01-valid-email-and-password.md)
