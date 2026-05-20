@@ -21,11 +21,10 @@
 🟢 **PASS**
 
 ## Traceability
-- Jira Test: *Koel | Log out | User is redirected to Login page after logout to end session*
-- Related Story: Logout Functionality
-- Regression Area: Authentication & Session Handling
-
+- Automation test: [AT02 Automation](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT02/AT02-user-is-redirected-to-loginpage-after-logout.md)
+  
 ## Evidence
-- UI – Logout action
-- UI – Redirect to Login page
-- Automation – IntelliJ execution result
+- Screenshot: [TC02 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT02/TC02-logout-possible_IJ.png)
+- Screenshot: [TC01 – Before Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-before-logout_UI.png)
+- Screenshot: [TC01 – After Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-after-logout_UI.png)
+
