@@ -31,5 +31,5 @@ Koel displays the message: “Email format is incorrect.”
 
 ## Evidence
 
-- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_IntelliJ-Passed.png)
-- Screenshot: [TC04 – UI Error State](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_UI.png)
+- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04-missing-dot-symbol_IJ.png)
+- Screenshot: [TC04 – UI Error State](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04-missing-dot-symbol_UI.png)
