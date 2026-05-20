@@ -14,7 +14,7 @@
 - The UI displays the message: “Email format is incorrect.”
 - User remains on the Login page.
 
-## Actual Result (from execution)
+## Actual Result 
 - No “Email format is incorrect” message is displayed.
 - The login form briefly shakes and shows a red outline.
 - No text feedback is provided.
@@ -24,10 +24,10 @@
 ❌ FAIL
 
 ## Traceability
-- Automation Test: [TC04 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC04_InvalidEmailNoDotSymbolTest.md)
+- Automation Test: [TC04 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/AT04-invalid-email-no-dot-symbol-test.md)
 - Bug Report: [BR04 – Missing Dot Symbol](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/BR04-missing-dot-symbol-expected-error-message-not-shown.md)
 
 ## Evidence
 
-- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_IntelliJ-Passed.png)
-- Screenshot: [TC04 – UI Red Outline / Shake](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_UI.png)
+- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04-missing-dot-symbol_IJd.png)
+- Screenshot: [TC04 – UI Red Outline / Shake](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04-missing-dot-symbol_UI.png)
