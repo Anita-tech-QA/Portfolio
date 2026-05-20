@@ -42,4 +42,4 @@ Verify that the Artists search functionality correctly displays **no results** w
 ## Evidence
 - Screenshot: [TC05-1](/Manual-Testing-Project/Evidence/TC05-1.png)
 - Screenshot: [TC05-2](/Manual-Testing-Project/Evidence/TC05-2.png)
-- Related Bug Report: [BR05-ARTISTS-Invalid-Search-Returns-Incorrect-Results.md](../Bug-Reports/BR05-ARTISTS-Invalid-Search-Returns-Incorrect-Results.md)
+- Related Bug Report: [BR05 - Invaid Artist Search Returns Incorrect Results](../Bug-Reports/BR05-invalid-artist-search-returns-incorrect-results.md)
