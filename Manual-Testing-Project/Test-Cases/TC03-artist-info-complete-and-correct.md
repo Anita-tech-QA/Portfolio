@@ -27,4 +27,4 @@
 
 ## Evidence
 - Screenshot: [TC03](/Manual-Testing-Project/Evidence/TC03.png)
-- Related Bug Report: [BR03-ARTISTS-Artists-Incorrectly-Grouped-Under-Unknown-Artist.md](../Bug-Reports/BR03-ARTISTS-Artists-Incorrectly-Grouped-Under-Unknown-Artist.md)
+- Related Bug Report: [BR03 - Artists Incorrectly Grouped Under "Unknown Artist"](../Bug-Reports/BR03-artists-incorrectly-grouped-under-unknown-artist.md)
