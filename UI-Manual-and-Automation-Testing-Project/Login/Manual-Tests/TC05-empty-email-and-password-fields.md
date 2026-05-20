@@ -12,7 +12,7 @@
 - The UI displays the message: “Email format is incorrect.”
 - User remains on the Login page.
 
-## Actual Result (from execution)
+## Actual Result 
 - No “Email format is incorrect” message is displayed.
 - Browser shows native HTML5 tooltip:  
   “Please fill out this field”
@@ -22,10 +22,10 @@
 ❌ FAIL
 
 ## Traceability
-- Automation Test: [TC05 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC05_EmptyEmailAndPasswordFieldsTest.md)
+- Automation Test: [TC05 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/AT05-empty-email-and-password-fields-test.md)
 - Bug Report: [BR05 – Empty Fields Error Not Shown](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/BR05-empty-fields-error-not-shown.md)
 
 ## Evidence
 
-- Screenshot: [TC05 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields_IntelliJ-Passed.png)
-- Screenshot: [TC05 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields-Tooltip.png)
+- Screenshot: [TC05 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05-empty-fields_IJ.png)
+- Screenshot: [TC05 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05-empty-fields-tooltip_UI.png)
