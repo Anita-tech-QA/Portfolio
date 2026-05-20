@@ -1,4 +1,4 @@
-# TC02 – Invalid Email (Missing Domain) – Automation
+# AT02 – Invalid Email (Missing Domain) – Automation
 
 ## Traceability
 - Manual Test: [TC02 – Invalid Email (Missing Domain)](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC02-invalid-email-no-domain.md)
