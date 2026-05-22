@@ -1,6 +1,7 @@
 # QA Portfolio – Anita Surewicz
 
 This portfolio showcases three core QA projects:  
+
 • Manual UI & functional testing (Jira/Zephyr)  
 • API testing (Postman, authentication, negative testing, DBeaver validation)  
 • UI automation for the Login feature (Selenium, TestNG, Java)  
