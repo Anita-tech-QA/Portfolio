@@ -28,6 +28,6 @@
 ## Evidence
 - Screenshot: [TC03 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT03/TC03-logout-after-password-update_IJ.png)
 - Screenshot: [TC03 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT03/TC03-logout-redirect-correct-url_IJ.png)
-- Screenshot: [TC01 – Before Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-before-logout_UI.png)
+- Screenshot: [TC03 – Profile Page](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC03/TC03-profile-page_UI.png)
 - Screenshot: [TC01 – After Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-after-logout_UI.png)
 - Screenshot: [TC01 – After Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-after-logout_UI.png)
