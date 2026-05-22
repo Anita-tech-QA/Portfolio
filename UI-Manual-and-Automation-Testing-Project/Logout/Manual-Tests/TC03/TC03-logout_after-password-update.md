@@ -23,11 +23,10 @@
 🟢 **PASS**
 
 ## Traceability
-- Jira Test: *Koel | Log out | User can log out after updating password*
-- Related Story: Logout Functionality
-- Regression Area: Authentication, Profile Management
-
+- Automation test: [AT02 Automation](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT03/AT03-logout-after-password-update.md)
+  
 ## Evidence
-- UI – Password update confirmation  
-- UI – Logout action  
-- Automation – IntelliJ execution result
+- Screenshot: [TC03 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT03/TC03-logout-after-password-update_IJ.png)
+- Screenshot: [TC03 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT03/TC03-logout-redirect-correct-url_IJ.png)
+- Screenshot: [TC01 – Before Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-before-logout_UI.png)
+- Screenshot: [TC01 – After Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-after-logout_UI.png)
