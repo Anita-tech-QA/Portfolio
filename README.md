@@ -19,6 +19,9 @@ UI and functional testing using Jira/Zephyr within a structured QA workflow. Inc
 REST API testing using Postman, covering authentication, negative testing, and validation of the `GET /api/song/{song_id}/info` endpoint. Includes structured test cases, bug reports, and screenshots. Demonstrates backend validation, error‑handling analysis, and defect documentation in a realistic QA environment.
 
 ### 3. UI Automation Project – Login Feature (Selenium + TestNG + Java)
+
+This project contains simple automation scripts used to support manual testing and improve debugging efficiency.
+
 Automation of the Login feature using Selenium WebDriver, TestNG, and Java. Includes a Page Object Model (POM), automated test cases mirroring the manual suite, execution results, and linked bug reports. Demonstrates how manual and automated testing integrate into a maintainable QA workflow.
 
 ## Skills Demonstrated
