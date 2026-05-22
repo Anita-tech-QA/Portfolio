@@ -4,6 +4,10 @@ This project validates the Login functionality of the Koel music streaming appli
 
 The goal was to ensure secure authentication, proper validation of incorrect inputs, and consistent redirect behavior. Manual test cases and automation scripts follow the same structure for full traceability.
 
+## Note about the project
+
+This project contains simple automation scripts used to support manual testing and improve debugging efficiency.
+
 ## What this project demonstrates
 - Manual UI and functional test design  
 - Selenium WebDriver automation with Java, TestNG, and Page Object Model  
