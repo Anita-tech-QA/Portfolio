@@ -20,9 +20,9 @@ REST API testing using Postman, covering authentication, negative testing, and v
 
 ### 3. UI Automation Project – Login Feature (Selenium + TestNG + Java)
 
-This project contains simple automation scripts used to support manual testing and improve debugging efficiency.
+This project contains basic UI automation scripts created to support manual testing, validate UI flows, and improve troubleshooting accuracy.
 
-Automation of the Login feature using Selenium WebDriver, TestNG, and Java. Includes a Page Object Model (POM), automated test cases mirroring the manual suite, execution results, and linked bug reports. Demonstrates how manual and automated testing integrate into a maintainable QA workflow.
+It automates the Login and Logout feature using Selenium WebDriver, TestNG, and Java. The project includes a Page Object Model (POM), automated test cases aligned with the manual suite, execution results, and linked bug reports. It demonstrates how automation can complement manual testing within a maintainable QA workflow.
 
 ## Skills Demonstrated
 • Manual testing  
