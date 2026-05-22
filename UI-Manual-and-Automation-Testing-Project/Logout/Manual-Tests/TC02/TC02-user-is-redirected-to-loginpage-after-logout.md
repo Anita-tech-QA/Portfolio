@@ -25,6 +25,6 @@
   
 ## Evidence
 - Screenshot: [TC02 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Logout/Automation/AT02/TC02-logout-possible_IJ.png)
-- Screenshot: [TC01 – Before Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-before-logout_UI.png)
-- Screenshot: [TC01 – After Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-after-logout_UI.png)
+- Screenshot: [TC02 – Before Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-before-logout_UI.png)
+- Screenshot: [TC02 – After Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC02/TC02-after-logout_UI.png)
 
