@@ -1,7 +1,7 @@
 # TC03 – User can log out after updating password – Automation
 
 ## Traceability
-Manual Test: **TC03 – User can log out after updating password**
+- Manual Test: [TC03 – Logout After Password Update](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC03/TC03-logout-after-password-update.md)
 
 ## Scenario
 Validate that after a user successfully updates their password on the Profile page, Koel still allows the user to log out properly using the **“Log student out”** button in the top navigation bar.
