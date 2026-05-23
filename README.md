@@ -1,6 +1,7 @@
 # QA Portfolio – Anita Surewicz
 
-This portfolio showcases three core QA projects demonstrating practical skills across **manual UI testing**, **API testing**, and **UI automation**.  
+This portfolio showcases three core QA projects demonstrating practical skills across **manual UI testing**, **API testing**, and exploratory **UI automation**.
+
 All work reflects structured QA workflows, evidence‑based validation, and maintainable test design.
 
 ---
