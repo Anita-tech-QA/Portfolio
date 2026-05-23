@@ -1,7 +1,7 @@
 # AT04 – **User cannot re‑enter the application after logout using the browser Back button – Automation**
 
 ## Traceability
-- Manual Test: **TC04 – User cannot re‑enter the application after logout (Back button)**
+- Manual Test: [TC04 – User Cannot Reenter App After Logout](/UI-Manual-and-Automation-Testing-Project/Logout/Manual-Tests/TC04/TC04-user-cannot-reenter-app-after-logout.md)
 
 ## Scenario
 Validate that after a user logs out of Koel, pressing the browser **Back** button does not allow the user to re‑enter the application.
