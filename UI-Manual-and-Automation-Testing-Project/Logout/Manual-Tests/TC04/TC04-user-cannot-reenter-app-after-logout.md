@@ -6,11 +6,9 @@
 - Browser Back button is available.
 
 ## Test Steps
-1. From the Home Page, open the **Profile** menu.
-2. Click the **“Log student out”** button.
-3. Verify the user is redirected to the **Login Page**.
-4. Press the browser **Back** button.
-5. Observe whether the application restores access to the Home Page.
+1. Click the **“Log student out”** button.
+2. Verify the user is redirected to the **Login Page**.
+3. Press the browser **Back** button.
 
 ## Expected Result
 - User is fully logged out.
