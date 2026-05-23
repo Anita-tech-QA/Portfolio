@@ -1,1 +1,31 @@
+# AT04 – **User cannot re‑enter the application after logout using the browser Back button – Automation**
 
+## Traceability
+- Manual Test: **TC04 – User cannot re‑enter the application after logout (Back button)**
+
+## Scenario
+Validate that after a user logs out of Koel, pressing the browser **Back** button does not allow the user to re‑enter the authenticated Home Page.
+
+## Automation Logic
+1. Log in to the Koel application using valid credentials.
+2. Click the **“Log student out”** button.
+3. Verify the user is redirected to the **Login Page**.
+4. Press the browser **Back** button.
+7. Assert that:
+   - The user is **not** returned to the Home Page.
+   - The session remains terminated.
+   - The application stays on the **Login Page**.
+
+## Assertions
+- ✔️ Confirmed: User was logged out of the application.  
+- ✔️ Confirmed: Pressing the Back button did **not** restore access.  
+- ✔️ Confirmed: Application remained on the Login Page.
+
+## Automation Result
+- **Confirmed:** Logout action completed  
+- **Confirmed:** Back‑button navigation was blocked  
+- **Confirmed:** User remained on the Login Page  
+
+## Reason
+This automation test verifies that Koel correctly prevents re‑entry into authenticated pages after logout.  
+It ensures proper session invalidation and supports regression coverage for **authentication**, **navigation control**, and **session termination**.
