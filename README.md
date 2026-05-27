@@ -1,6 +1,6 @@
 # QA Portfolio – Anita Surewicz
 
-This portfolio showcases three core QA projects demonstrating practical skills across **manual UI testing**, **API testing**, and exploratory **UI automation**.
+This portfolio showcases three core QA projects demonstrating practical skills across **manual UI testing**, **API testing**, exploratory **UI automation**, and **technical support troubleshooting**
 
 All work reflects structured QA workflows, evidence‑based validation, and maintainable test design.
 
@@ -17,9 +17,13 @@ Backend testing of authentication, negative scenarios, and the
 `GET /api/song/{song_id}/info` endpoint.  
 Includes test cases, error‑handling analysis, and defect documentation.
 
-### 3. UI Automation – Login & Logout (Selenium + TestNG + Java)
+### 3. UI Automation – Login & Logout - Selenium + TestNG + Java (Work in Progress)
 Automation scripts supporting manual testing and regression coverage.  
 Includes Page Object Model (POM), aligned manual/automation traceability, and execution evidence.
+
+### 4. Technical Support Troubleshooting (Work in Progress)
+Real‑world SaaS debugging scenarios using Chrome DevTools, DNS tools, and API inspection.  
+Currently includes **DNS Resolution Failure**; additional scenarios (404 vs 500 vs 403, CORS errors, caching issues, API key misconfigurations) are being added.
 
 ---
 
