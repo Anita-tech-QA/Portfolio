@@ -13,7 +13,7 @@ To understand the customer’s complaint, I reproduced the problem on my own mac
 When reproducing the issue, I observed the following:
 
 - The browser showed **“This site can’t be reached.”**  
-  [View screenshot](evidence/browser-error.png)
+  [View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/loading-failure-browser.png))
 
 - The error code was **DNS_PROBE_FINISHED_NXDOMAIN.**  
   [View screenshot](evidence/browser-error.png)
@@ -44,15 +44,15 @@ To investigate the issue, I used the following tools, with each tool helping con
 
 ### Step 1 — DNS Lookup
 Running `nslookup thisdomainshouldneverexist12345.com` returned no IP address and showed **“Non-existent domain.”** This confirmed that the domain doesn’t exist in DNS.  
-[View screenshot](evidence/browser-error.png)
+[View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/nslookup-nxdomain.png.png)
 
 ### Step 2 — Verify DNS Works for Other Domains
 Running `nslookup google.com` resolved successfully, which ruled out a local DNS server failure.  
-[View screenshot](evidence/browser-error.png)
+[View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/nslookup-success.png)
 
 ### Step 3 — Check DNS Propagation
 Using an online DNS propagation checker showed that **all global DNS servers returned NXDOMAIN**. This confirmed that the domain had no valid DNS records anywhere and that the failure was consistent across all regions.  
-[View screenshot](evidence/browser-error.png)
+[View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/dns-propagation-check.png)
 
 ### Step 4 — Inspect DNS Records
 Using a DNS lookup tool, I checked whether the domain had any DNS records. The lookup returned an **NXDOMAIN** response and showed **no A record, no CNAME, and no NS entries**. This confirmed that the domain had no DNS configuration at all, which explains why the browser could not resolve it.  
@@ -60,11 +60,12 @@ Using a DNS lookup tool, I checked whether the domain had any DNS records. The l
 
 ### Step 5 — Ping Test
 Running `ping thisdomainshouldneverexist12345.com` returned **“unknown host,”** confirming DNS failure rather than a network connectivity issue.  
-[View screenshot](evidence/browser-error.png)
+[View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/ping-nxdomain.png)
 
 ### Step 6 — Traceroute
 Running `tracert thisdomainshouldneverexist12345.com` failed immediately with **no hops recorded**. This confirmed the request never left the local machine because DNS resolution failed first.  
-[View screenshot](evidence/browser-error.png)
+[View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/traceroute-nxdomain.png)
+
 
 ---
 
