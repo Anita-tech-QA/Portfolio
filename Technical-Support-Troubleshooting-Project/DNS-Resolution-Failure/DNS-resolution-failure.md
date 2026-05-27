@@ -94,7 +94,7 @@ Once DNS was corrected, the domain would resolve normally and the website would 
 ---
 
 ## Evidence
-- [Browser error — “This site can’t be reached” with NXDOMAIN] (/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/dfdasf.png)
+- [Browser error — “This site can’t be reached” with NXDOMAIN] (/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/loading-failure-browser.png)
 - DevTools Console — DNS resolution error  
 - DevTools Network — No response from server  
 - nslookup — Domain returns NXDOMAIN  
