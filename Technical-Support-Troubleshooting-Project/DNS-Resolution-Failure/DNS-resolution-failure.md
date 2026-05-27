@@ -16,10 +16,10 @@ When reproducing the issue, I observed the following:
   [View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/loading-failure-browser.png))
 
 - The error code was **DNS_PROBE_FINISHED_NXDOMAIN.**  
-  [View screenshot](evidence/browser-error.png)
+  [View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/loading-failure-browser.png))
 
 - The Network tab showed a failed document request with no response from the server.  
-  [View screenshot](evidence/browser-error.png)
+  [View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/failed-document-request.png)
 
 - Other websites loaded normally.
 
@@ -56,7 +56,7 @@ Using an online DNS propagation checker showed that **all global DNS servers ret
 
 ### Step 4 — Inspect DNS Records
 Using a DNS lookup tool, I checked whether the domain had any DNS records. The lookup returned an **NXDOMAIN** response and showed **no A record, no CNAME, and no NS entries**. This confirmed that the domain had no DNS configuration at all, which explains why the browser could not resolve it.  
-[View screenshot](evidence/browser-error.png)
+[View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/dns-records-missing.png)
 
 ### Step 5 — Ping Test
 Running `ping thisdomainshouldneverexist12345.com` returned **“unknown host,”** confirming DNS failure rather than a network connectivity issue.  
