@@ -95,11 +95,11 @@ Once DNS was corrected, the domain would resolve normally and the website would 
 
 ## Evidence
 - [Browser error — “This site can’t be reached” with NXDOMAIN](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/loading-failure-browser.png)
-
-- DevTools Console — DNS resolution error  
-- DevTools Network — No response from server  
-- nslookup — Domain returns NXDOMAIN  
-- DNS propagation check — NXDOMAIN across all global DNS servers  
-- DNS record lookup — No A, CNAME, or NS records  
-- ping — “unknown host,” confirming DNS failure  
-- traceroute — Fails immediately, no hops recorded  
+- [DevTools Console — DNS resolution error](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/dns-console-error.png)
+- [DevTools Network — No response from server](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/failed-document-request.png)
+- [nslookup — Domain returns NXDOMAIN](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/nslookup-nxdomain.png.png)
+- [nslookup — Other domain success](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/nslookup-success.png)
+- [DNS propagation check — NXDOMAIN across all global DNS servers](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/dns-propagation-check.png)
+- [DNS record lookup — No A, CNAME, or NS records](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/dns-records-missing.png)
+- [ping — “unknown host,” confirming DNS failure](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/ping-nxdomain.png)
+- [traceroute — Fails immediately, no hops recorded](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/traceroute-nxdomain.png)
