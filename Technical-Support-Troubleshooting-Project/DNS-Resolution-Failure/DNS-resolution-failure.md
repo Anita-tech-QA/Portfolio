@@ -44,7 +44,7 @@ To investigate the issue, I used the following tools, with each tool helping con
 
 ### Step 1 — DNS Lookup
 Running `nslookup thisdomainshouldneverexist12345.com` returned no IP address and showed **“Non-existent domain.”** This confirmed that the domain doesn’t exist in DNS.  
-[View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/nslookup-nxdomain.png.png)
+[View screenshot](/Technical-Support-Troubleshooting-Project/DNS-Resolution-Failure/Evidence/nslookup-nxdomain.png)
 
 ### Step 2 — Verify DNS Works for Other Domains
 Running `nslookup google.com` resolved successfully, which ruled out a local DNS server failure.  
