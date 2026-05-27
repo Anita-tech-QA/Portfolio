@@ -36,7 +36,8 @@ Currently includes **DNS Resolution Failure**; additional scenarios (404 vs 500 
 - Bug reporting  
 - Exploratory testing  
 - Jira/Zephyr workflow  
-- AI‑Augmented Testing  
+- AI‑Augmented Testing
+- Technical support troubleshooting (DevTools, DNS, HTTP errors)  
 
 ---
 
